@@ -8,3 +8,5 @@ D:\suman\test\Slave\NetworkWinApp\NetworkWinApp\obj\Debug\NetworkWinApp.csproj.G
 D:\suman\test\Slave\NetworkWinApp\NetworkWinApp\obj\Debug\NetworkWinApp.exe
 D:\suman\test\Slave\NetworkWinApp\NetworkWinApp\obj\Debug\NetworkWinApp.pdb
 D:\suman\test\Slave\NetworkWinApp\NetworkWinApp\obj\Debug\NetworkWinApp.csprojResolveAssemblyReference.cache
+C:\Users\aoe\Documents\Visual Studio 2013\Projects\test-heelo\PortForwarding\obj\Debug\NetworkWinApp.exe
+C:\Users\aoe\Documents\Visual Studio 2013\Projects\test-heelo\PortForwarding\obj\Debug\NetworkWinApp.pdb
